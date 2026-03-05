@@ -1,6 +1,6 @@
 # GCP E2E CI Infrastructure Demo
 
-## Epic: GCP-254 - GCP E2E Tests Configuration in the HyperShift Repository
+## Epic: [GCP-254](https://issues.redhat.com/browse/GCP-254) - GCP E2E Tests Configuration in the HyperShift Repository
 
 ---
 
