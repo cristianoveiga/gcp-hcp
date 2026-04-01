@@ -1,0 +1,1 @@
+../../claude-plugin/gcp-hcp/skills/gcp-hcp-architecture/SKILL.md
